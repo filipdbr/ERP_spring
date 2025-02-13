@@ -31,7 +31,7 @@ DATABASE_URL=jdbc:postgresql://postgres:5432/erp_db
 DATABASE_USERNAME=<your-database-username>
 DATABASE_PASSWORD=<your-database-password>
 ```
-**Note**: Replace <your-database-username> and <your-database-password> with your actual PostgreSQL credentials. Do not commit your personal credentials to version control.
+**Note**: Replace <your-database-username> and <your-database-password> with your actual PostgreSQL credentials. You can replace parameters in [.env.example](./.env.example) and rename it to `.env`.
 
 ## Running the Project
 ### Using Docker Compose
