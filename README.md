@@ -61,7 +61,7 @@ To connect to the PostgreSQL database (for example, using DBeaver), use the foll
 
 Below is the current version of the ERP system diagram. This diagram is the first version and will be further developed as the project evolves.
 
-![ER Diagram](./src/main/resources/docs/er_diagram.png)
+![ER Diagram](./src/main/resources/docs/er_diagram_v2.png)
 
 ## Development Workflow
 
