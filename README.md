@@ -49,7 +49,7 @@ This command will:
 
 ### Connecting to PostgreSQL via a Client
 
-To connect to the PostgreSQL database (for example, using DBeaver), use the following settings:
+To connect to the PostgreSQL database (for example, using DBeaver or PgAdmin4), use the following settings:
 
 * Host: localhost
 * Port: 5432
