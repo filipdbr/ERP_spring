@@ -57,7 +57,6 @@ public class Permission {
 
     /**
      * Returns a string representation of the Permission object.
-     * Useful for debugging.
      */
     @Override
     public String toString() {
