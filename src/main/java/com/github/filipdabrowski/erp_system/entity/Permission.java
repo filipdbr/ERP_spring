@@ -10,7 +10,7 @@ import jakarta.validation.constraints.Size;
  * //todo define relationship with RolePermission
  */
 @Entity
-@Table(name = "permission") // Maps this class to the "permission" table in the database
+@Table(name = "Permission") // Maps this class to the "permission" table in the database
 public class Permission {
 
     @Id
@@ -61,8 +61,8 @@ public class Permission {
     @Override
     public String toString() {
         return "Permission{" +
-                "permissionId=" + permissionId +
-                ", permissionName='" + permissionName + '\'' +
+                "permissionId = " + permissionId +
+                ", permissionName = '" + permissionName + '\'' +
                 '}';
     }
 }
